@@ -13,9 +13,10 @@ const firebaseConfig = {
   projectId: "gamefinder-8cc38",
   storageBucket: "gamefinder-8cc38.appspot.com",
   messagingSenderId: "93596669578",
-  appId: "1:93596669578:web:e630497833b39cd12eff73",
-  measurementId: "G-0YL0T5BSTK"
+  appId: "1:93596669578:web:df142ead84cc3a9e2eff73",
+  measurementId: "G-BNENS06V5J"
 };
+
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);

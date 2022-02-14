@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "info-340-project-2-gamefinder"
-  }
+    "default": "edited-gamefinder"
+  },
+  "targets": {}
 }
